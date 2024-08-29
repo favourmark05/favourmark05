@@ -3,10 +3,15 @@
 ## Roles and Experience:
 
 🚀 Former Google DSC Lead, Obong University
+
 🌍 Google Developer Group Organizer, Ikot-Ekpene
+
 🌱 Open Source Africa Chapter Lead, Ikot-Ekpene
+
 💡 Former I4G Lead, Obong University
+
 🖥️ Director of Software, Obong University
+
 🤖 Robotics & AI Enthusiast at Edupoint Limited
 
 ## Professional Background:
@@ -16,7 +21,9 @@
 ## Interests:
 
 💻 Passionate about web technologies and enhancing web experiences
+
 🌟 Strong believer in community growth and a dedicated tech evangelist
+
 🎤 Open to speaking opportunities at tech events and conferences
 
 ## Currently Exploring:
