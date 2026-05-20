@@ -13,6 +13,8 @@ With over **7+ years of industry experience**, I’ve worked across fintech, e-c
 - 💻 Frontend Engineer specializing in:
   - Vue.js
   - Nuxt 3
+  - React
+  - Next.js
   - Angular
   - JavaScript
   - TypeScript
