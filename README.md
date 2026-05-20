@@ -1,45 +1,73 @@
-👋 Hi, I'm Mfonido Mark
+# 👋 Hey, I’m Mfonido Mark
 
-## Roles and Experience:
+Frontend Engineer • DevRel Advocate • Community Builder
 
-🚀 Former Google DSC Lead, Obong University
+I build fast, scalable, and accessible web experiences while helping developers grow through community, open source, and education.
 
-🌍 Google Developer Group Organizer, Ikot-Ekpene
+---
 
-🌱 Open Source Africa Chapter Lead, Ikot-Ekpene
+## 🚀 About Me
 
-💡 Former I4G Lead, Obong University
+I’m a frontend engineer with 5+ years of experience building products across fintech, e-commerce, sports, and developer platforms.
 
-🖥️ Director of Software, Obong University
+Beyond engineering, I actively contribute to developer ecosystems through community leadership, speaking engagements, mentorship, and open-source advocacy.
 
-🤖 Robotics & AI Enthusiast at Edupoint Limited
+---
 
-## Professional Background:
+## 🌍 Community & Leadership
 
-🔍 Over 5 years of experience in fintech, e-commerce, sports, community building, developer ecosystem advocacy, developer relations, DevRel engineering, and frontend engineering.
+- 🌟 Former Google DSC Lead — Obong University  
+- 🚀 Google Developer Group Organizer — Ikot-Ekpene  
+- 🌱 Open Source Community Africa Chapter Lead — Ikot-Ekpene  
+- 💡 Former Ingressive For Good (I4G) Lead — Obong University  
+- 🖥️ Former Director of Software — Obong University  
+- 🤖 Robotics & AI Enthusiast at Edupoint Limited  
 
-## Interests:
+---
 
-💻 Passionate about web technologies and enhancing web experiences
+## 💻 Tech Stack
 
-🌟 Strong believer in community growth and a dedicated tech evangelist
+### Frontend
+- Vue.js
+- Nuxt 3
+- Angular
+- JavaScript
+- TypeScript
+- Tailwind CSS
 
-🎤 Open to speaking opportunities at tech events and conferences
+### Currently Exploring
+- React
+- React Native
 
-## Currently Exploring:
-📚 Learning React and React Native to broaden my development skills.
+---
 
-## Looking to Collaborate:
-🤝 Open to collaboration on Vue, Nuxt, Angular, and Vanilla JavaScript projects.
+## ✨ What I Care About
 
-## Connect with Me:
-📧 favourmark05@gmail.com
+- Building performant and accessible web applications
+- Creating developer-friendly experiences
+- Open source contribution and collaboration
+- Growing inclusive tech communities
+- Speaking at developer events and conferences
 
-🌐 mfonidomark.netlify.com
+---
 
-🐦 @MfonidoMark
+## 🤝 Open to Collaborate On
 
-<!---
-favourmark05/favourmark05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Vue.js Projects
+- Nuxt 3 Applications
+- Angular Applications
+- Frontend Architecture
+- Developer Relations & Community Initiatives
+- Open Source Projects
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: `favourmark05@gmail.com`
+- 🌐 Portfolio: `mfonidomark.netlify.app`
+- 🐦 X (Twitter): `@MfonidoMark`
+
+---
+
+> “Building products is great. Building communities that empower people to create even more is better.”
