@@ -105,6 +105,7 @@ Frontend Engineering · Vue.js/Nuxt · React/Next.js · React Native · Design S
 - 🌐 [Portfolio](https://mfonidomark.netlify.app)
 - 🐦 [X (Twitter)](https://x.com/MfonidoMark)
 - 💻 [GitHub](https://github.com/mfonidomark)
+- [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/mark-mark-74294a3a5/)
 
 ---
 
